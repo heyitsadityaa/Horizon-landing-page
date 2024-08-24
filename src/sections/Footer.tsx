@@ -10,7 +10,7 @@ export const Footer = () => {
         <div className="flex flex-col lg:flex-row lg:items-center gap-8">
           <div className="flex gap-2 items-center">
             <Logo className="size-6" />
-            <div className="font-medium">AI Startup Landing Page</div>
+            <div className="font-medium">Horizon</div>
           </div>
           <nav className="flex flex-col lg:flex-row lg:gap-7 lg:flex-1 gap-5 lg:justify-center">
             <a
