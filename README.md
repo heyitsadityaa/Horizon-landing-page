@@ -1,4 +1,4 @@
-## [Checkout the project](https://horizon-landing-page-heyitsadityaa-adityas-projects-b1f0cfa2.vercel.app/)
+## <a name="project-demo">Project Demo</a>
 
 [Watch the demo video](https://github.com/user-attachments/assets/9a923f96-845d-4950-ab4e-c7b18cad859f)
 
